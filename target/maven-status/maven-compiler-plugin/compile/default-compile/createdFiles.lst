@@ -1,8 +1,0 @@
-webapps/jbosswebapp/security/JWTImpl.class
-webapps/jbosswebapp/beans/BasicResponse.class
-webapps/jbosswebapp/ExampleWS.class
-webapps/jbosswebapp/batch/ExampleBachelet.class
-webapps/jbosswebapp/batch/TimerScheduleJobs.class
-webapps/jbosswebapp/security/JWTTokenNeeded.class
-webapps/jbosswebapp/security/JWTTokenNeededFilter.class
-webapps/jbosswebapp/app/RestApplication.class
